@@ -95,16 +95,108 @@ Final Paper due on Session 26.
 
 All student work is used with the permission of the author.
 
-| ESSAYS | STUDENT WORKS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Essay 1**{{< /td-colspan >}} ||
-| James Thomson The Seasons 'Summer' | Lindsay Hays ([PDF]({{< baseurl >}}/resources/thomson_summer)) |
-| An Analysis of Matthew Green's 'The Spleen' | Emily Proctor ([PDF]({{< baseurl >}}/resources/041122_text)) |
-| Whatever Is, Is Right | William Walsh ([PDF]({{< baseurl >}}/resources/pope_analysis)) |
-| {{< td-colspan 2 >}}**Essay 1 Revised**{{< /td-colspan >}} ||
-| For God's Sake! - The Need for a Creator in Brooke's Universal Beauty | Jonathan Blum ([PDF]({{< baseurl >}}/resources/univ_beauty_rev)) |
-| The Roles of Imagination and Reason in Morality | Youngsun Cho ([PDF]({{< baseurl >}}/resources/imagination)) |
-| Impact of the Fundamental Tension between Poetic Craft and the Scientific Principles which Lucretius Introduces in De Rerum Natura | JoHanna Przybylowski ([PDF]({{< baseurl >}}/resources/luc_essay_jnp_v2)) |
-| {{< td-colspan 2 >}}**Final Essay**{{< /td-colspan >}} ||
-| Wordsworth's Examination of the Role of Nature in Reason | JoHanna Przybylowski ([PDF]({{< baseurl >}}/resources/wordsworth_essay)) |
-| The Torch of Experience | William Walsh ([PDF]({{< baseurl >}}/resources/final_essay))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ESSAYS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT WORKS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Essay 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+James Thomson The Seasons 'Summer'
+{{< tdclose >}}
+{{< tdopen >}}
+Lindsay Hays ([PDF]({{< baseurl >}}/resources/thomson_summer))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+An Analysis of Matthew Green's 'The Spleen'
+{{< tdclose >}}
+{{< tdopen >}}
+Emily Proctor ([PDF]({{< baseurl >}}/resources/041122_text))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Whatever Is, Is Right
+{{< tdclose >}}
+{{< tdopen >}}
+William Walsh ([PDF]({{< baseurl >}}/resources/pope_analysis))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Essay 1 Revised**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+For God's Sake! - The Need for a Creator in Brooke's Universal Beauty
+{{< tdclose >}}
+{{< tdopen >}}
+Jonathan Blum ([PDF]({{< baseurl >}}/resources/univ_beauty_rev))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Roles of Imagination and Reason in Morality
+{{< tdclose >}}
+{{< tdopen >}}
+Youngsun Cho ([PDF]({{< baseurl >}}/resources/imagination))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Impact of the Fundamental Tension between Poetic Craft and the Scientific Principles which Lucretius Introduces in De Rerum Natura
+{{< tdclose >}}
+{{< tdopen >}}
+JoHanna Przybylowski ([PDF]({{< baseurl >}}/resources/luc_essay_jnp_v2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Final Essay**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wordsworth's Examination of the Role of Nature in Reason
+{{< tdclose >}}
+{{< tdopen >}}
+JoHanna Przybylowski ([PDF]({{< baseurl >}}/resources/wordsworth_essay))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Torch of Experience
+{{< tdclose >}}
+{{< tdopen >}}
+William Walsh ([PDF]({{< baseurl >}}/resources/final_essay))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
