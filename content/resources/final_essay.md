@@ -6,6 +6,7 @@ description: Final Essay from William Walsh, a student in the class. The essay i
   Dualist Philosophy of Armstrong?s The Art of Preserving Health.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-704-studies-in-poetry-british-poetry-and-the-sciences-of-the-mind-fall-2004/0f47461303589a5fdb4526866592f468_final_essay.pdf
 file_type: application/pdf
+parent_uid: db574398-dd5e-d534-bce6-a63a993b6e63
 resourcetype: Document
 title: final_essay.pdf
 uid: 0f474613-0358-9a5f-db45-26866592f468
